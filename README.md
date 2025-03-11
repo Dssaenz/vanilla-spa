@@ -1,4 +1,4 @@
-# Curriculum vitae
+# Vanilla Spa
 To view the proyect:
 - Clone repository
 - Run 'npm install'
